@@ -1,0 +1,2 @@
+Metode grafik hanya bisa digunakan untuk menyelesaikan permasalahan dimana hanya terdapat dua variabel keputusan. Untuk menyelesaikan permasalahan tersebut, langkah pertama yang harus dilakukan adalah memformulasikan permasalahan yang ada ke dalam bentuk Linear Programming (LP).
+Metode grafik adalah satu cara yang dapat digunakan untuk memecahkan masalah optimalisasi dalam programasi linier. Keterbatasan metode ini adalah variabel yang bisa digunakan terbatas (hanya dua), penggunaan 3 variabel akan sangat sulit dilakukan.

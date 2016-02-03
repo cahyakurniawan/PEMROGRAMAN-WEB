@@ -1,0 +1,1 @@
+Swift adalah bahasa pemrograman yang kokoh dan intuitif yang diciptakan Apple untuk mengembangkan aplikasi untuk iOS, Mac, Apple TV, dan Apple Watch. Bahasa ini didesain untuk memberikan lebih banyak kebebasan kepada pengembang. Swift mudah digunakan dan bersifat sumber terbuka (open source), jadi, siapa pun yang memiliki ide dapat menciptakan sesuatu yang luar biasa.

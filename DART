@@ -1,0 +1,3 @@
+Dart merupakan bahasa pemrograman object oriented yang dirancang Google untuk memudahkan pekerjaan para developer web dalam membangun aplikasi yang berbasis web. Misi Google untuk Dart adalah menggantikanJavaScript yang dianggap kurang fleksibel untuk pemrograman web. 
+Para developer yang terbiasa coding menggunakan JavaScript pasti tidak asing dengan struktur bahasa yang dimiliki Dart. Ini merupakan daya tarik bagi developer untuk beralih ke bahasa pemrograman baru ini.   Kelebihan lain Dart, kode bahasa Dart dapat di-compile ke kode bahasa Java. Sehingga aplikasi yang dibangun di Dart dapat dijalankan di hampir seluruh browser, begitu juga di perangkat mobile yang mendukung JavaScript.  
+

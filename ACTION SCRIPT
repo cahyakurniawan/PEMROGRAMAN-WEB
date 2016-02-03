@@ -1,0 +1,1 @@
+Assembler jauh lebih mudah ditulis daripada kompilator untuk bahasa tingkat-tinggi, dan telah tersedia sejak 1950-an. Assembler modern, terutama untuk arsitektur berdasarkanRISC, seperti arsitektur MIPS, Sun SPARC, dan HP PA-RISC, mengoptimalkan penjadwalan instruksi untuk menggunakan pipeline CPU secara efisien

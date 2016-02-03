@@ -1,0 +1,2 @@
+menghasilkan program target.Lex dan program Yacc dapat menghasilkan fragmen yang pertama menyelesaikan tugas.Tugas menemukan struktur sumber lagi adalah subtasks didekomposisi menjadi:1.
+Membagi file sumber ke dalam token (Lex).

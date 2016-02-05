@@ -1,0 +1,52 @@
+Prinsip menentukan desain web yang baik atau tidak
+1.	Usability 
+Jacob Nielsen sang guru usability, usability adalah ' dapatkah seorang user menemukan cara untuk menggunakan website tersebut dengan efektif ( doing things right ). Masih menurut Jacob, usability memiliki 5 karakteristik :
+
+a. Mudah untuk dipelajari;
+- Efisien untuk digunakan;
+- Mudah untuk diingat;
+- Tingkat frekuensi kesalahan;
+- Tingkat kepuasan pemakai;
+
+Karakteristik yang telah ditentukan oleh Jacob Nielsen akan sangat sulit kita terapkan 100%, apalagi kalau sudah menyangkut kepentingan klien web, tetapi paling tidak bisa menjadi acuan yang membantu kita untuk merancang layout suatu website, agar website tersebut :
+
+b. Mudah dipelajari penggunaannya oleh pengunjung;
+- Mudah diingat dan digunakan navigasinya oleh pengunjung;
+- Dapat digunakan secara efisien;
+- Memperkecil tingkat kesalahan pemakaian oleh pengunjung dalam mengoperasionalkan web;
+- Memuaskan pengunjung hingga akhirnya tertarik untuk kembali lagi;
+
+2. Sistem navigasi
+
+
+Navigasi yang mudah dipahami oleh pengunjung secara keseluruhan.
+
+3. Graphic Design
+
+
+Pemilihan grafis, layout, warna, bentuk maupun typografi yang menarik visual pengunjung untuk menjelajahi website.
+
+4. Content
+
+
+Isi/konten yang bermanfaat ( 'Content is king , but without good design , Content is a naked king' ), kecuali website tersebut adalah website eksperimental/show off.
+
+5. Kompatibilitas
+
+Seberapa luas sebuah webite didukung kompabilitas peralatan yang ada, misalnya browser dengan berbagai plug-in nya ( IE, Mozilla, Opera, Netscape, Lynx, Avant, Maxthon dan masih banyak lagi dengan berbagai versi dan plugin nya)
+
+6. Loading time
+
+
+Waktu panggil (loading time), walaupun ada banyak faktor yang akan mempengaruhi waktu panggil (loading time) website yang akan kita buka, diantaranya: besar bandwith/koneksi pengakses, kondisi webserver pada saat diakses, aplikasi yang digunakan dalam membangun website,dsb. Anda memiliki waktu 8 detik pertama untuk meyakinkan pengunjung untuk meneruskan menjelajahi website anda atau menutup browser dan pergi ke website lain. Oleh karena itu, letakkan 'sesuatu' di 8 detik pertama tersebut yang bisa menarik perhatian pengunjung.
+Hint: ukuran sebuah halaman web html dengan image di dalamnya (tanpa flash) adalah kurang lebih 50-60 kb.
+
+
+
+
+7. Functionality
+
+
+Ini akan melibatkan programmer dengan script-scriptnya, misal PHP,ASP,Java,CGI dsb, untuk menciptakan sebuah website yang dinamis, interaktif dan 'hidup' yang bisa mengajak pengunjung berkomunikasi secara langsung. Seberapa baik sebuah website bekerja dari aspek teknologikal nya 
+
+

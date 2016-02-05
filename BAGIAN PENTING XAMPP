@@ -1,0 +1,5 @@
+Bagian penting xampp
+Mengenal bagian XAMPP yang biasa digunakan pada umumnya: 
+•	htdoc adalah folder tempat meletakkan berkas-berkas yang akan dijalankan, seperti berkas PHP, HTML dan skrip lain.
+•	phpMyAdmin merupakan bagian untuk mengelola basis data MySQL yang ada dikomputer. Untuk membukanya, buka browser lalu ketikkan alamathttp://localhost/phpMyAdmin, maka akan muncul halaman phpMyAdmin.
+•	Kontrol Panel yang berfungsi untuk mengelola layanan (service) XAMPP. Seperti menghentikan (stop) layanan, ataupun memulai (start).
